@@ -122,6 +122,7 @@ while mäng_töötab:
             break
         
     while mängu_etapp == "tiitrid":
+        #Siin tuleb ainult kuvada pilt ja ära määrata klikkimiskaugus.
         hiire_x, hiire_y = mouse.get_pos()
         for i in event.get():
             if i.type == QUIT:
