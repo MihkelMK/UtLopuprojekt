@@ -1,6 +1,6 @@
 from pygame import *
 
-aken = display.set_mode([1000, 1000])
+aken = display.set_mode([1024, 1000])
 init()
 
 def import_text():
