@@ -1,32 +1,31 @@
-1. WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-2. W.P.....IWI..................IW
-3. W........W...................IW
-4. WWWWWWW..W..WWWWWWWWWWWWWWWWWWW
-5. W..................IW........IW
-6. W..................IW.........W
-7. W..WWWWWWWWWWWWWWWWWWWWWWWWW..W
-8. W..WIIW.......................W
-9. W.....W......................IW
-10 W.....W..WIIWWWWWWWWWWWWWWWWWWW
-11 W..WWWW..WWWWI...............IW
-12 W............................IW
-13 W..............WWWWWWWWWWWWW..W
-14 WWWWWWW..WWWWWWWI.............W
-15 W....WW..WW...WWI.............W
-16 W.II.WW..WWWWWWWWWWWWWWWWWWWWWW
-17 W.II.WW..WIIW......IWI.......IW
-18 W....WW.....W......IWI.......IW
-19 WW..WWW.....W..WWWWWWWWWWW..WWW
-20 WW..WWW..WWWW..WWWWWWWWWWW..WWW
-21 WW..WWW......................IW
-22 WW..WWW......................IW
-23 WW..WWW..WWWWWWWWWW..WWWWWWWWWW
-24 WW..WWW..WWW.I.WWWW..WWWWWWIIWW
-25 WW..WWW......................IW
-26 WW..WWW......................IW
-27 WW..WWWWWW..WWWWWWW..WWWWWWWWWW
-28 WW..WWWWWW..WWW.I.W..WWWWWIIWWW
-29 WW..........WWW...............W
-30 WW..........WWW...............W
-31 WWWWWWWWWWWWWWWWWWWWWWWWWWWW..W
-   -------------------------------
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W.P.....IWI..................IW
+W........W...................IW
+WWWWWWW..W..WWWWWWWWWWWWWWWWWWW
+W..................IW........IW
+W..................IW.........W
+W..WWWWWWWWWWWWWWWWWWWWWWWWW..W
+W..WIIW.......................W
+W.....W......................IW
+W.....W..WIIWWWWWWWWWWWWWWWWWWW
+W..WWWW..WWWWI...............IW
+W............................IW
+W..............WWWWWWWWWWWWW..W
+WWWWWWW..WWWWWWWI.............W
+W....WW..WW...WWI.............W
+W.II.WW..WWWWWWWWWWWWWWWWWWWWWW
+W.II.WW..WIIW......IWI.......IW
+W....WW.....W......IWI.......IW
+WW..WWW.....W..WWWWWWWWWWW..WWW
+WW..WWW..WWWW..WWWWWWWWWWW..WWW
+WW..WWW......................IW
+WW..WWW......................IW
+WW..WWW..WWWWWWWWWW..WWWWWWWWWW
+WW..WWW..WWW.I.WWWW..WWWWWWIIWW
+WW..WWW......................IW
+WW..WWW......................IW
+WW..WWWWWW..WWWWWWW..WWWWWWWWWW
+WW..WWWWWW..WWW.I.W..WWWWWIIWWW
+WW..........WWW...............W
+WW..........WWW...............W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWW..W
