@@ -36,7 +36,6 @@ Put down letters to make levels.
 .-Empty area (where player can move)
 W-Wall
 I-Stone that player can pick up.
-M-Mine.
 S-Enemy spawner.
 P-Player startpoint
 Remove the numbers on the left, lines below the level, and this text after level is done.
