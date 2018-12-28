@@ -26,6 +26,6 @@ W..WWWWWWW..W..WWWW..WWWWWWW..W
 W..WWIIWWW..W.................W
 W..WW.......W.................W
 W..WWWWWWWWWWWWWWWW..W..WWWWWWW
-W....................W.........
-W....................W.........
+W....................W........E
+W....................W........E
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
