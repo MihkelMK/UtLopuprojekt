@@ -38,4 +38,5 @@ W-Wall
 I-Stone that player can pick up.
 S-Enemy spawner.
 P-Player startpoint
+E-Endpoint (the point where the level ends)
 Remove the numbers on the left, lines below the level, and this text after level is done.
